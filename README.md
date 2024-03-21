@@ -3,11 +3,13 @@
 <h3 align="center" >I am something of a programmer myself 😈</h3>
 <br>
 
- - 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js**
 
-    - 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter**
 
-    - 📫 How to reach me **mstfenes03@gmail.com**
+- 📫 How to reach me **mstfenes03@gmail.com**
+
+  
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
