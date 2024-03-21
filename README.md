@@ -2,7 +2,7 @@
 <div style="height: 200px;"></div> 
 <h3 align="center">I am something of a programmer myself 😈</h3>
 
-<p style="font-size: 35px; ">- 🌱 I’m currently learning **React.js**</p>
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Flutter**
 
