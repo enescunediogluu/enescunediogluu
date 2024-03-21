@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mustafa Enes Cunedioğlu</h1>
+<h1 align="center" style="font-weight: bold;" >Hi 👋, I'm Mustafa Enes Cunedioğlu</h1>
 <br>
 
-<h3 align="center">I am something of a programmer myself 😈</h3>
+<h3 align="center" >I am something of a programmer myself 😈</h3>
 
 - 🌱 I’m currently learning **React.js**
 
