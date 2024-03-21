@@ -4,7 +4,7 @@
 <br>
 
 <div style="display:flex;">
-  <div>
+  <div style="width: 50%;">
     
     - 🌱 I’m currently learning **React.js**
 
