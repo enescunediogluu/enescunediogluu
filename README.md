@@ -4,7 +4,7 @@
 <br>
 
 <div style="display:flex;">
-  <div style="width: 50%;">
+  
     
     - 🌱 I’m currently learning **React.js**
 
@@ -12,7 +12,7 @@
 
     - 📫 How to reach me **mstfenes03@gmail.com**
 
-  </div>
+ 
   <div>
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" width="180" height="180">
   </div>
