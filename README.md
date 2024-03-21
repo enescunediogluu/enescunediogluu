@@ -14,7 +14,7 @@
 
   </div>
   <div>
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" width="180" height="180">
   </div>
 </div>
 <br>
