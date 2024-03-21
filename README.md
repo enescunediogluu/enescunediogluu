@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold;" >Hi 👋, I'm Mustafa Enes Cunedioğlu</h1>
-<br>
+
 <h3 align="center" >I am something of a programmer myself 😈</h3>
 <br>
 
