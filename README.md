@@ -3,7 +3,7 @@
 <h3 align="center" >I am something of a programmer myself 😈</h3>
 <br>
 
-<div>
+<div style="display:flex;">
   <div>
     
     - 🌱 I’m currently learning **React.js**
