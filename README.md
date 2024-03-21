@@ -2,7 +2,6 @@
 <br>
 <h3 align="center" >I am something of a programmer myself 😈</h3>
 <br>
-
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Flutter**
