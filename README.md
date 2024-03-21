@@ -3,12 +3,20 @@
 <h3 align="center" >I am something of a programmer myself 😈</h3>
 <br>
 
-- 🌱 I’m currently learning **React.js**
+<div>
+  <div>
+    
+    - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Flutter**
+    - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **mstfenes03@gmail.com**
+    - 📫 How to reach me **mstfenes03@gmail.com**
 
+  </div>
+  <div>
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png">
+  </div>
+</div>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
